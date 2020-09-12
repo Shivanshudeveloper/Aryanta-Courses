@@ -90,6 +90,39 @@ const Home = () => {
                     </div>
                 </div>
 
+                <div class="card mt-2">
+                    <div class="card-body">
+                        <ReactPlayer width="auto" height="200px" controls={true} url='https://www.youtube.com/watch?v=ysz5S6PUM-U' />
+                        <h4 class="card-title text-center p-2">
+                            <Link style={{ textDecoration: 'none', color: 'black' }} to="/course" >
+                                Test Course 2
+                            </Link>
+                        </h4>
+                    </div>
+                </div>
+
+                <div class="card mt-2">
+                    <div class="card-body">
+                        <ReactPlayer width="auto" height="200px" controls={true} url='https://www.youtube.com/watch?v=ysz5S6PUM-U' />
+                        <h4 class="card-title text-center p-2">
+                            <Link style={{ textDecoration: 'none', color: 'black' }} to="/course" >
+                                Test Course 3
+                            </Link>
+                        </h4>
+                    </div>
+                </div>
+
+                <div class="card mt-2">
+                    <div class="card-body">
+                        <ReactPlayer width="auto" height="200px" controls={true} url='https://www.youtube.com/watch?v=ysz5S6PUM-U' />
+                        <h4 class="card-title text-center p-2">
+                            <Link style={{ textDecoration: 'none', color: 'black' }} to="/course" >
+                                Test Course 4
+                            </Link>
+                        </h4>
+                    </div>
+                </div>
+
 
 
             </Box>
