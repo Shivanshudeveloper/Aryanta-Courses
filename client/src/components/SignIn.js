@@ -122,7 +122,7 @@ export default function SignIn() {
             variant="primary" 
             size="lg" 
             block
-            href="/gettingstarted"
+            href="/home"
           >
             Sign In
           </BootstrapButton>
