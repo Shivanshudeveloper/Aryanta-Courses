@@ -21,7 +21,7 @@ export default function ButtonAppBar() {
                 </Link>
             </div>
             <div className="float-right">
-                <Link to="/search">
+                <Link to="/notification">
                     <NotificationsIcon style={{ fontSize: 30, color: 'white' }} />
                 </Link>
             </div>
